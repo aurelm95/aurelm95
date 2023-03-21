@@ -1,3 +1,4 @@
+<!--- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hi 👋, I'm Aurelio Losquiño Muñoz</h1>
 <h3 align="center">A passionate mathematician from Spain</h3>
 
@@ -7,7 +8,6 @@
 
 - 📫 How to reach me **aurelm95@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
